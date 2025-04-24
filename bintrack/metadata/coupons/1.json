@@ -1,0 +1,15 @@
+{
+  "name": "Zomato 15% Off Coupon",
+  "description": "15% off on your next Zomato order for finding a bin!",
+  "image": "https://gateway.pinata.cloud/ipfs/QmbHp3a2ST9Pxuh5SYsU6ubPQ3Qaeocwv74b8NeuxWeHrv/zomato_coupon.png",
+  "attributes": [
+    {
+      "trait_type": "Coupon Type",
+      "value": "Food Delivery"
+    },
+    {
+      "trait_type": "Discount",
+      "value": "15%"
+    }
+  ]
+}

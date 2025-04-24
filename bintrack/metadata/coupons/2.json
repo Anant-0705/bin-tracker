@@ -1,0 +1,15 @@
+{
+  "name": "Myntra 10% Off Coupon",
+  "description": "10% off on your next Myntra purchase!",
+  "image": "https://gateway.pinata.cloud/ipfs/QmbHp3a2ST9Pxuh5SYsU6ubPQ3Qaeocwv74b8NeuxWeHrv/myntra_coupon.png",
+  "attributes": [
+    {
+      "trait_type": "Coupon Type",
+      "value": "Fashion"
+    },
+    {
+      "trait_type": "Discount",
+      "value": "10%"
+    }
+  ]
+}

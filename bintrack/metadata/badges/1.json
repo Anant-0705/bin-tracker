@@ -1,0 +1,15 @@
+{
+  "name": "Bin Hunter Badge",
+  "description": "Awarded for finding 10 bins! You're making the world cleaner!",
+  "image": "ipfs://QmbHp3a2ST9Pxuh5SYsU6ubPQ3Qaeocwv74b8NeuxWeHrv/bin_hunter_badge.png",
+  "attributes": [
+    {
+      "trait_type": "Badge Type",
+      "value": "Achievement"
+    },
+    {
+      "trait_type": "Level",
+      "value": "Bronze"
+    }
+  ]
+}

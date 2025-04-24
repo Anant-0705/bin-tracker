@@ -1,0 +1,15 @@
+{
+  "name": "Movie Ticket Coupon",
+  "description": "Free movie ticket for your eco-friendly efforts!",
+  "image": "https://gateway.pinata.cloud/ipfs/QmbHp3a2ST9Pxuh5SYsU6ubPQ3Qaeocwv74b8NeuxWeHrv/movie_coupon.png",
+  "attributes": [
+    {
+      "trait_type": "Coupon Type",
+      "value": "Entertainment"
+    },
+    {
+      "trait_type": "Reward",
+      "value": "Free Ticket"
+    }
+  ]
+}

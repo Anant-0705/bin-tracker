@@ -1,0 +1,15 @@
+{
+  "name": "BurgerOS Badge",
+  "description": "Master of waste management!",
+  "image": "ipfs://QmbHp3a2ST9Pxuh5SYsU6ubPQ3Qaeocwv74b8NeuxWeHrv/burgeros_badge.png",
+  "attributes": [
+    {
+      "trait_type": "Badge Type",
+      "value": "Achievement"
+    },
+    {
+      "trait_type": "Level",
+      "value": "Gold"
+    }
+  ]
+}
